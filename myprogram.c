@@ -8,10 +8,6 @@ int main(int argc, char * argv[])
   
   return 0;
 }
-=======
-
-  return 0;
-}
 
 /*
 ** Sum elements
@@ -34,4 +30,4 @@ int div(int a, int b)
   }
   return res;
 }
->>>>>>> myNewBranch
+
