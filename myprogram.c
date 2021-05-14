@@ -9,9 +9,23 @@ int main(int argc, char * argv[])
 }
 
 /*
-** Sum elements 
+** Sum elements
 */
 int sum(int a, int b)
 {
   return a+b;
+}
+
+/*
+** Division function a/b
+*/
+int div(int a, int b)
+{
+  int res =0;
+
+  if(b!=0)
+  {
+    res = a / b;
+  }
+  return res;
 }
