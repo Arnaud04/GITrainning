@@ -31,3 +31,11 @@ int div(int a, int b)
   return res;
 }
 
+/*
+** Sub
+*/
+
+int sub(int a, int b)
+{
+  return a-b;
+}
