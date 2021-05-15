@@ -1,10 +1,10 @@
 #include "stdio.h"
 #include "stdlib.h"
+#include "myprogram.h"
 
 int main(int argc, char * argv[])
 {
   printf("Debut du main\n");
-<<<<<<< HEAD
   
   return 0;
 }
@@ -20,7 +20,7 @@ int sum(int a, int b)
 /*
 ** Division function a/b
 */
-int div(int a, int b)
+int division(int a, int b)
 {
   int res =0;
 
